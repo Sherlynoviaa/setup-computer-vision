@@ -11,7 +11,7 @@ Repositori ini berisi dokumentasi dan hasil belajar mandiri mengenai persiapan l
 
 ---
 
-## 💻 Hasil Praktik Setup Environment
+## Hasil Praktik Setup Environment
 Berikut adalah spesifikasi dan tahapan yang saya lakukan:
 - **Bahasa Pemrograman:** Python 3.11
 - **Library Utama:** OpenCV (opencv-python)
@@ -39,3 +39,11 @@ Saya menggunakan skrip `main.py` untuk memverifikasi instalasi:
 ## Video Presentasi
 Tonton demonstrasi lengkap proses setup dan penjelasan materi saya di sini:  
 👉 **(https://youtu.be/sdATJ5sBeIs?si=NqaPytYqgFHcXdIW)**
+
+---
+
+## Referensi & Resource Tambahan
+Untuk membantu proses manajemen *environment* dan paket, saya menggunakan referensi perintah dari **Anaconda Official Cheat Sheet**. Teman-teman dapat mendownloadnya melalui tautan di bawah ini:
+
+👉 [**Download Anaconda Cheat Sheet (PDF)**]
+[https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf]
